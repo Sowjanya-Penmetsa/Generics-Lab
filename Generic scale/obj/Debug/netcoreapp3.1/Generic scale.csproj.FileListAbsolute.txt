@@ -1,0 +1,13 @@
+C:\Users\Anvesh Penmetsa\source\repos\Generics Lab\Generic scale\bin\Debug\netcoreapp3.1\Generic scale.exe
+C:\Users\Anvesh Penmetsa\source\repos\Generics Lab\Generic scale\bin\Debug\netcoreapp3.1\Generic scale.deps.json
+C:\Users\Anvesh Penmetsa\source\repos\Generics Lab\Generic scale\bin\Debug\netcoreapp3.1\Generic scale.runtimeconfig.json
+C:\Users\Anvesh Penmetsa\source\repos\Generics Lab\Generic scale\bin\Debug\netcoreapp3.1\Generic scale.runtimeconfig.dev.json
+C:\Users\Anvesh Penmetsa\source\repos\Generics Lab\Generic scale\bin\Debug\netcoreapp3.1\Generic scale.dll
+C:\Users\Anvesh Penmetsa\source\repos\Generics Lab\Generic scale\bin\Debug\netcoreapp3.1\Generic scale.pdb
+C:\Users\Anvesh Penmetsa\source\repos\Generics Lab\Generic scale\obj\Debug\netcoreapp3.1\Generic scale.csprojAssemblyReference.cache
+C:\Users\Anvesh Penmetsa\source\repos\Generics Lab\Generic scale\obj\Debug\netcoreapp3.1\Generic scale.csproj.CoreCompileInputs.cache
+C:\Users\Anvesh Penmetsa\source\repos\Generics Lab\Generic scale\obj\Debug\netcoreapp3.1\Generic scale.AssemblyInfoInputs.cache
+C:\Users\Anvesh Penmetsa\source\repos\Generics Lab\Generic scale\obj\Debug\netcoreapp3.1\Generic scale.AssemblyInfo.cs
+C:\Users\Anvesh Penmetsa\source\repos\Generics Lab\Generic scale\obj\Debug\netcoreapp3.1\Generic scale.dll
+C:\Users\Anvesh Penmetsa\source\repos\Generics Lab\Generic scale\obj\Debug\netcoreapp3.1\Generic scale.pdb
+C:\Users\Anvesh Penmetsa\source\repos\Generics Lab\Generic scale\obj\Debug\netcoreapp3.1\Generic scale.genruntimeconfig.cache
